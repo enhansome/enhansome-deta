@@ -272,10 +272,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T03:57:22Z",
+            "last_commit": "2026-08-13T17:49:31Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141750
+            "stars": 141764
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2025-09-04T08:02:03Z",
             "owner": "nalgeon",
             "repo": "sqlime",
-            "stars": 1065
+            "stars": 1066
           }
         },
         {
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:14:18.590Z",
+    "last_updated": "2026-08-13T18:07:22.274Z",
     "original_repository": "deta/awesome-deta",
     "original_repository_sha": "eecdad77ebe4168d43b64ec1c3b2bca122931084",
     "enhanced_repository": "enhansome/enhansome-deta",
