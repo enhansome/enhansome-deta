@@ -199,7 +199,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T01:09:26Z",
+            "last_commit": "2026-08-14T18:07:20Z",
             "owner": "walinejs",
             "repo": "dittorm",
             "stars": 27
@@ -272,10 +272,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T17:54:16Z",
+            "last_commit": "2026-08-15T17:08:51Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141793
+            "stars": 141781
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2024-09-02T13:58:28Z",
             "owner": "WebCrateApp",
             "repo": "webcrate",
-            "stars": 752
+            "stars": 753
           }
         },
         {
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:06:19.677Z",
+    "last_updated": "2026-08-15T17:34:32.706Z",
     "original_repository": "deta/awesome-deta",
     "original_repository_sha": "eecdad77ebe4168d43b64ec1c3b2bca122931084",
     "enhanced_repository": "enhansome/enhansome-deta",
