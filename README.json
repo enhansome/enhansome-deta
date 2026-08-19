@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 605634730,
             "language": "HTML",
             "last_commit": "2023-09-22T16:46:07Z",
             "owner": "deta",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 578158854,
             "language": "C++",
             "last_commit": "2023-05-17T15:36:34Z",
             "owner": "tbdsux",
@@ -35,234 +37,241 @@
       "title": "Starters"
     },
     {
-      "description": "",
-      "items": [],
+      "description": "Deta and community SDKs, grouped by language.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "deta-dart",
+              "description": "The deta-dart library is the simple way to interact with the services of the free cloud on the Deta plataform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 447347774,
+                "language": "Dart",
+                "last_commit": "2022-12-30T00:27:01Z",
+                "owner": "yeikel16",
+                "repo": "deta-dart",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deta Cloud for Flutter",
+              "description": "Dart package for easy usage of Deta Base, Drive and Auth.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 406800192,
+                "language": "Dart",
+                "last_commit": "2024-09-26T15:01:30Z",
+                "owner": "liquidiert",
+                "repo": "deta_dart",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deta Drive Dart",
+              "description": "A dart helper library for Deta Drive cloud storage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 472024262,
+                "language": "Dart",
+                "last_commit": "2022-03-22T06:29:01Z",
+                "owner": "DonnC",
+                "repo": "deta_drive",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dart SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Deta SDK for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 391652049,
+                "language": "Rust",
+                "last_commit": "2021-08-03T00:42:35Z",
+                "owner": "sarmadgulzar",
+                "repo": "deta-rust",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "The unofficial Deta SDK for Rust lang.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 453642675,
+                "language": "Rust",
+                "last_commit": "2022-02-15T17:05:55Z",
+                "owner": "JakubesP",
+                "repo": "deta-rust",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Deta Rust Library (SDK).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 314028510,
+                "language": "Rust",
+                "last_commit": "2020-11-24T08:41:33Z",
+                "owner": "emmanuelantony2000",
+                "repo": "deta-rust",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Deta SDK for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 457654984,
+                "language": "Rust",
+                "last_commit": "2022-03-20T12:44:30Z",
+                "owner": "Borber",
+                "repo": "deta-rs",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust SDK"
+        }
+      ],
       "title": "SDK's"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "deta-dart",
-          "description": "The deta-dart library is the simple way to interact with the services of the free cloud on the Deta plataform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2022-12-30T00:27:01Z",
-            "owner": "yeikel16",
-            "repo": "deta-dart",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deta Cloud for Flutter",
-          "description": "Dart package for easy usage of Deta Base, Drive and Auth.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Dart",
-            "last_commit": "2024-09-26T15:01:30Z",
-            "owner": "liquidiert",
-            "repo": "deta_dart",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deta Drive Dart",
-          "description": "A dart helper library for Deta Drive cloud storage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2022-03-22T06:29:01Z",
-            "owner": "DonnC",
-            "repo": "deta_drive",
-            "stars": 4
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dittorm",
+              "description": "A Node.js ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.",
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Deno",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "dittorm-deno",
+                      "description": "A Deno ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 466136358,
+                        "language": "TypeScript",
+                        "last_commit": "2022-12-10T04:56:22Z",
+                        "owner": "so1ve",
+                        "repo": "dittorm-deno",
+                        "stars": 7
+                      }
+                    }
+                  ]
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 462357169,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T22:15:16Z",
+                "owner": "walinejs",
+                "repo": "dittorm",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deta Base ORM",
+              "description": "🗃🪐 Basic ORM for Deta Base.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 394051997,
+                "language": "JavaScript",
+                "last_commit": "2023-08-23T14:03:21Z",
+                "owner": "BetaHuhn",
+                "repo": "deta-base-orm",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript ORM"
         }
       ],
-      "title": "Dart SDK"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Deta SDK for Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2021-08-03T00:42:35Z",
-            "owner": "sarmadgulzar",
-            "repo": "deta-rust",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "The unofficial Deta SDK for Rust lang.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-02-15T17:05:55Z",
-            "owner": "JakubesP",
-            "repo": "deta-rust",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Deta Rust Library (SDK).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2020-11-24T08:41:33Z",
-            "owner": "emmanuelantony2000",
-            "repo": "deta-rust",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Deta SDK for Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-03-20T12:44:30Z",
-            "owner": "Borber",
-            "repo": "deta-rs",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Rust API for deta.sh.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "(Unofficial) Deta SDK for Rust.",
-          "children": []
-        }
-      ],
-      "title": "Rust SDK"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "ORM's"
     },
     {
-      "description": "",
+      "description": "Deta and community libraries, grouped by category.",
       "items": [
         {
-          "node_type": "item",
-          "title": "Dittorm",
-          "description": "A Node.js ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.",
           "children": [
             {
-              "node_type": "group",
-              "title": "Deno",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "dittorm-deno",
-                  "description": "A Deno ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "language": "TypeScript",
-                    "last_commit": "2022-12-10T04:56:22Z",
-                    "owner": "so1ve",
-                    "repo": "dittorm-deno",
-                    "stars": 7
-                  }
-                }
-              ]
+              "node_type": "item",
+              "title": "Deploy Action by @neobrains",
+              "description": "Simple GitHub Action to deploy a repo to a Deta Space.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 568495052,
+                "language": null,
+                "last_commit": "2024-02-26T06:24:18Z",
+                "owner": "neobrains",
+                "repo": "space-pipe",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deploy Action by @lizheming",
+              "description": "GitHub Action to deploy current repo to Deta Space",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625182523,
+                "language": "Shell",
+                "last_commit": "2024-02-17T02:50:47Z",
+                "owner": "lizheming",
+                "repo": "deta-action",
+                "stars": 11
+              }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T22:15:16Z",
-            "owner": "walinejs",
-            "repo": "dittorm",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deta Base ORM",
-          "description": "🗃🪐 Basic ORM for Deta Base.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-08-23T14:03:21Z",
-            "owner": "BetaHuhn",
-            "repo": "deta-base-orm",
-            "stars": 22
-          }
+          "description": null,
+          "node_type": "group",
+          "title": "Github Action"
         }
       ],
-      "title": "JavaScript ORM"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Misc's"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Deploy Action by @neobrains",
-          "description": "Simple GitHub Action to deploy a repo to a Deta Space.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2024-02-26T06:24:18Z",
-            "owner": "neobrains",
-            "repo": "space-pipe",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deploy Action by @lizheming",
-          "description": "GitHub Action to deploy current repo to Deta Space",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-02-17T02:50:47Z",
-            "owner": "lizheming",
-            "repo": "deta-action",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Github Action"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -271,11 +280,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T17:38:41Z",
+            "last_commit": "2026-08-19T12:24:11Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141851
+            "stars": 141864
           }
         },
         {
@@ -285,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 409578405,
             "language": "JavaScript",
             "last_commit": "2025-09-04T08:02:03Z",
             "owner": "nalgeon",
@@ -299,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 380346064,
             "language": "Vue",
             "last_commit": "2024-09-02T13:58:28Z",
             "owner": "WebCrateApp",
@@ -313,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 380172812,
             "language": "HTML",
             "last_commit": "2022-10-14T01:28:56Z",
             "owner": "sampoder",
@@ -327,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261156548,
             "language": "JavaScript",
             "last_commit": "2023-09-22T15:18:40Z",
             "owner": "xeust",
@@ -341,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300314530,
             "language": "JavaScript",
             "last_commit": "2021-07-22T16:12:39Z",
             "owner": "abdelhai",
@@ -355,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 635803719,
             "language": "HTML",
             "last_commit": "2023-05-03T15:57:08Z",
             "owner": "lizheming",
@@ -364,16 +380,12 @@
         }
       ],
       "title": "Apps & Examples"
-    },
-    {
-      "description": "Creative Commons. Please see License File for more information.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:42:16.370Z",
+    "last_updated": "2026-08-19T12:24:28.000Z",
     "original_repository": "deta/awesome-deta",
+    "original_repository_id": 312291853,
     "original_repository_sha": "eecdad77ebe4168d43b64ec1c3b2bca122931084",
     "enhanced_repository": "enhansome/enhansome-deta",
     "enhanced_repository_description": null,
