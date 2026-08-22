@@ -15,7 +15,7 @@
             "last_commit": "2023-09-22T16:46:07Z",
             "owner": "deta",
             "repo": "starters",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -244,7 +244,7 @@
                 "last_commit": "2024-02-26T06:24:18Z",
                 "owner": "neobrains",
                 "repo": "space-pipe",
-                "stars": 38
+                "stars": 37
               }
             },
             {
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T17:23:08Z",
+            "last_commit": "2026-08-22T14:31:38Z",
             "owner": "vercel",
             "repo": "next.js",
             "stars": 141887
@@ -300,7 +300,7 @@
             "last_commit": "2025-09-04T08:02:03Z",
             "owner": "nalgeon",
             "repo": "sqlime",
-            "stars": 1065
+            "stars": 1066
           }
         },
         {
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:44:48.113Z",
+    "last_updated": "2026-08-22T17:35:18.787Z",
     "original_repository": "deta/awesome-deta",
     "original_repository_id": 312291853,
     "original_repository_sha": "eecdad77ebe4168d43b64ec1c3b2bca122931084",
