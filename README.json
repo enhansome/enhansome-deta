@@ -282,10 +282,10 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T14:31:38Z",
+            "last_commit": "2026-08-23T17:05:02Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141887
+            "stars": 141893
           }
         },
         {
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:35:18.787Z",
+    "last_updated": "2026-08-23T17:33:44.802Z",
     "original_repository": "deta/awesome-deta",
     "original_repository_id": 312291853,
     "original_repository_sha": "eecdad77ebe4168d43b64ec1c3b2bca122931084",
