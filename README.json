@@ -43,6 +43,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Deta Clojure",
+              "description": "A simple and yet powerful SDK for Deta Base and Deta Drive integration with Clojure.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 770599106,
+                "language": "Clojure",
+                "last_commit": "2024-03-25T22:28:54Z",
+                "owner": "AdaiasMagdiel",
+                "repo": "deta-clojure",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clojure SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "deta-dart",
               "description": "The deta-dart library is the simple way to interact with the services of the free cloud on the Deta plataform.",
               "children": [],
@@ -95,7 +117,192 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "deta-go",
+              "description": "official - Deta Golang SDK.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 309334368,
+                "language": "Go",
+                "last_commit": "2023-07-13T18:52:34Z",
+                "owner": "deta",
+                "repo": "deta-go",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "deta-javascript",
+              "description": "official - Deta JavaScript SDK.",
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Dena",
+                      "description": "A library for intracting with deta API from deno.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 302876307,
+                        "language": "TypeScript",
+                        "last_commit": "2022-07-22T14:29:54Z",
+                        "owner": "4ov",
+                        "repo": "dena",
+                        "stars": 13
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Deta",
+                      "description": "An unofficial Deta.sh API client for Deno.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 377271464,
+                        "language": "TypeScript",
+                        "last_commit": "2021-06-16T06:29:00Z",
+                        "owner": "predetermined",
+                        "repo": "deta-deno",
+                        "stars": 7
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "deta",
+                      "description": "Deta port to deno.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 425841483,
+                        "language": "TypeScript",
+                        "last_commit": "2021-11-08T14:25:18Z",
+                        "owner": "SiddharthShyniben",
+                        "repo": "ddeta",
+                        "stars": 4
+                      }
+                    }
+                  ]
+                }
+              ],
+              "repo_info": {
+                "archived": true,
+                "id": 265501410,
+                "language": "TypeScript",
+                "last_commit": "2023-10-05T07:42:19Z",
+                "owner": "deta",
+                "repo": "deta-javascript",
+                "stars": 70
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "detanim",
+              "description": "Deta SDK for NimLang.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 401520803,
+                "language": "Nim",
+                "last_commit": "2022-12-22T02:10:53Z",
+                "owner": "tbdsux",
+                "repo": "detanim",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Nim SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Deta Base PHP",
+              "description": "Basic PHP Wrapper for Deta Base.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 369966665,
+                "language": "PHP",
+                "last_commit": "2022-07-05T14:34:34Z",
+                "owner": "vitorhugoro1",
+                "repo": "deta-base-php",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "deta-python",
+              "description": "official – Deta Python Library (SDK).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 265250795,
+                "language": "Python",
+                "last_commit": "2023-09-15T13:25:34Z",
+                "owner": "deta",
+                "repo": "deta-python",
+                "stars": 152
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "deta-ruby",
+              "description": "deta-ruby is an unofficial Deta Gem for Ruby.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 453330277,
+                "language": "Ruby",
+                "last_commit": "2022-01-30T07:10:36Z",
+                "owner": "acidtib",
+                "repo": "deta-ruby",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "deta-rust",
               "description": "Deta SDK for Rust.",
               "children": [],
               "repo_info": {
@@ -110,7 +317,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "deta-rust",
               "description": "The unofficial Deta SDK for Rust lang.",
               "children": [],
               "repo_info": {
@@ -125,7 +332,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "deta-rust",
               "description": "Deta Rust Library (SDK).",
               "children": [],
               "repo_info": {
@@ -140,7 +347,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "deta-rs",
               "description": "Deta SDK for Rust.",
               "children": [],
               "repo_info": {
@@ -157,6 +364,72 @@
           "description": null,
           "node_type": "group",
           "title": "Rust SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Deta-Swift",
+              "description": "Deta-Swift is the unofficial Deta SDK for Swift.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 387118690,
+                "language": "Swift",
+                "last_commit": "2024-05-12T20:22:13Z",
+                "owner": "pkrll",
+                "repo": "deta-swift",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Swift SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Deta csharp",
+              "description": "Deta library for .NET Core in C#.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 370845162,
+                "language": "C#",
+                "last_commit": "2021-07-03T19:42:43Z",
+                "owner": "fabioravila",
+                "repo": "deta-csharp",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ".NET SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "deta-v",
+              "description": "Deta Bindings for V",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 490813348,
+                "language": "V",
+                "last_commit": "2022-05-28T22:24:02Z",
+                "owner": "N0tExisting",
+                "repo": "deta-v",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "V SDK"
         }
       ],
       "title": "SDK's"
@@ -223,6 +496,28 @@
           "description": null,
           "node_type": "group",
           "title": "JavaScript ORM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ODetaM",
+              "description": "A simple ODM(Object Document Mapper) for Deta Base based on pydantic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318719447,
+                "language": "Python",
+                "last_commit": "2023-10-10T18:03:12Z",
+                "owner": "rickh94",
+                "repo": "ODetaM",
+                "stars": 35
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python ORM"
         }
       ],
       "title": "ORM's"
@@ -230,6 +525,28 @@
     {
       "description": "Deta and community libraries, grouped by category.",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DetaCache",
+              "description": "Async and Sync Function Decorator to cache function call's to Deta base.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 433332133,
+                "language": "Python",
+                "last_commit": "2022-10-09T10:49:16Z",
+                "owner": "vidyasagar1432",
+                "repo": "detacache",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cache"
+        },
         {
           "children": [
             {
@@ -266,6 +583,50 @@
           "description": null,
           "node_type": "group",
           "title": "Github Action"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Multer Deta Drive Storage Engine",
+              "description": "multer-deta-storage is a custom storage engine for multer to support Deta Drive.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 472001454,
+                "language": "TypeScript",
+                "last_commit": "2022-03-22T10:45:58Z",
+                "owner": "KrishGarg",
+                "repo": "multer-deta-storage",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Storage"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "deta-worker",
+              "description": "Fetch API-based deta js library for browser and Service Worker environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 401856045,
+                "language": "JavaScript",
+                "last_commit": "2021-09-09T03:38:24Z",
+                "owner": "woozyking",
+                "repo": "deta-worker",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Worker"
         }
       ],
       "title": "Misc's"
@@ -282,10 +643,10 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T17:05:02Z",
+            "last_commit": "2026-08-24T14:39:31Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141893
+            "stars": 141915
           }
         },
         {
@@ -383,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:33:44.802Z",
+    "last_updated": "2026-08-24T14:40:56.035Z",
     "original_repository": "deta/awesome-deta",
     "original_repository_id": 312291853,
     "original_repository_sha": "eecdad77ebe4168d43b64ec1c3b2bca122931084",
