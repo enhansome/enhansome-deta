@@ -471,7 +471,7 @@
                 "archived": false,
                 "id": 462357169,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T22:15:16Z",
+                "last_commit": "2026-08-25T02:04:44Z",
                 "owner": "walinejs",
                 "repo": "dittorm",
                 "stars": 27
@@ -643,10 +643,10 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T17:45:09Z",
+            "last_commit": "2026-08-25T03:27:15Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141916
+            "stars": 141925
           }
         },
         {
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:46:41.425Z",
+    "last_updated": "2026-08-25T06:28:39.670Z",
     "original_repository": "deta/awesome-deta",
     "original_repository_id": 312291853,
     "original_repository_sha": "eecdad77ebe4168d43b64ec1c3b2bca122931084",
