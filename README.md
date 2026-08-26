@@ -110,7 +110,7 @@ Starters & templates to help you get started.
 
 ### JavaScript ORM
 
-* [Dittorm](https://github.com/walinejs/dittorm) ⭐ 27 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-25 - A Node.js ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.
+* [Dittorm](https://github.com/walinejs/dittorm) ⭐ 27 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-26 - A Node.js ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.
   * Deno
     * [dittorm-deno](https://github.com/so1ve/dittorm-deno) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2022-12-10 - A Deno ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.
 * [Deta Base ORM](https://github.com/BetaHuhn/deta-base-orm) ⭐ 22 | 🐛 8 | 🌐 JavaScript | 📅 2023-08-23 - 🗃🪐 Basic ORM for Deta Base.
@@ -142,7 +142,7 @@ Starters & templates to help you get started.
 
 ## Apps & Examples
 
-* [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base) ⭐ 141,927 | 🐛 3,852 | 🌐 JavaScript | 📅 2026-08-25 - An example using Deta Base in a Next.js project.
+* [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base) ⭐ 141,941 | 🐛 3,685 | 🌐 JavaScript | 📅 2026-08-26 - An example using Deta Base in a Next.js project.
 
 * [SQLime](https://github.com/nalgeon/sqlime) ⭐ 1,066 | 🐛 4 | 🌐 JavaScript | 📅 2025-09-04 - Online SQLite playground.
 
@@ -170,4 +170,4 @@ Creative Commons. Please see [License File](LICENSE) for more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
