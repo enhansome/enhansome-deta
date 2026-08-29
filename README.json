@@ -16,7 +16,8 @@
             "owner": "deta",
             "repo": "starters",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.839Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "tbdsux",
             "repo": "space-custom-apps",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.839Z"
         }
       ],
       "title": "Starters"
@@ -54,7 +56,8 @@
                 "owner": "AdaiasMagdiel",
                 "repo": "deta-clojure",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -76,7 +79,8 @@
                 "owner": "yeikel16",
                 "repo": "deta-dart",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             },
             {
               "node_type": "item",
@@ -91,7 +95,8 @@
                 "owner": "liquidiert",
                 "repo": "deta_dart",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             },
             {
               "node_type": "item",
@@ -106,7 +111,8 @@
                 "owner": "DonnC",
                 "repo": "deta_drive",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -128,7 +134,8 @@
                 "owner": "deta",
                 "repo": "deta-go",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -160,7 +167,8 @@
                         "owner": "4ov",
                         "repo": "dena",
                         "stars": 13
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:58:07.839Z"
                     },
                     {
                       "node_type": "item",
@@ -175,7 +183,8 @@
                         "owner": "predetermined",
                         "repo": "deta-deno",
                         "stars": 7
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:58:07.839Z"
                     },
                     {
                       "node_type": "item",
@@ -190,7 +199,8 @@
                         "owner": "SiddharthShyniben",
                         "repo": "ddeta",
                         "stars": 4
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:58:07.839Z"
                     }
                   ]
                 }
@@ -203,7 +213,8 @@
                 "owner": "deta",
                 "repo": "deta-javascript",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -225,7 +236,8 @@
                 "owner": "tbdsux",
                 "repo": "detanim",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -247,7 +259,8 @@
                 "owner": "vitorhugoro1",
                 "repo": "deta-base-php",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -269,7 +282,8 @@
                 "owner": "deta",
                 "repo": "deta-python",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -291,7 +305,8 @@
                 "owner": "acidtib",
                 "repo": "deta-ruby",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -313,7 +328,8 @@
                 "owner": "sarmadgulzar",
                 "repo": "deta-rust",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             },
             {
               "node_type": "item",
@@ -328,7 +344,8 @@
                 "owner": "JakubesP",
                 "repo": "deta-rust",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             },
             {
               "node_type": "item",
@@ -343,7 +360,8 @@
                 "owner": "emmanuelantony2000",
                 "repo": "deta-rust",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             },
             {
               "node_type": "item",
@@ -358,7 +376,8 @@
                 "owner": "Borber",
                 "repo": "deta-rs",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -380,7 +399,8 @@
                 "owner": "pkrll",
                 "repo": "deta-swift",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -402,7 +422,8 @@
                 "owner": "fabioravila",
                 "repo": "deta-csharp",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -424,7 +445,8 @@
                 "owner": "N0tExisting",
                 "repo": "deta-v",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -462,7 +484,8 @@
                         "owner": "so1ve",
                         "repo": "dittorm-deno",
                         "stars": 7
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:58:07.839Z"
                     }
                   ]
                 }
@@ -475,7 +498,8 @@
                 "owner": "walinejs",
                 "repo": "dittorm",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             },
             {
               "node_type": "item",
@@ -490,7 +514,8 @@
                 "owner": "BetaHuhn",
                 "repo": "deta-base-orm",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -512,7 +537,8 @@
                 "owner": "rickh94",
                 "repo": "ODetaM",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -540,7 +566,8 @@
                 "owner": "vidyasagar1432",
                 "repo": "detacache",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -562,7 +589,8 @@
                 "owner": "neobrains",
                 "repo": "space-pipe",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             },
             {
               "node_type": "item",
@@ -577,7 +605,8 @@
                 "owner": "lizheming",
                 "repo": "deta-action",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -599,7 +628,8 @@
                 "owner": "KrishGarg",
                 "repo": "multer-deta-storage",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -621,7 +651,8 @@
                 "owner": "woozyking",
                 "repo": "deta-worker",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.839Z"
             }
           ],
           "description": null,
@@ -643,11 +674,12 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T23:39:11Z",
+            "last_commit": "2026-08-29T00:19:20Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141965
-          }
+            "stars": 141977
+          },
+          "first_seen": "2026-08-29T00:58:07.839Z"
         },
         {
           "node_type": "item",
@@ -662,7 +694,8 @@
             "owner": "nalgeon",
             "repo": "sqlime",
             "stars": 1066
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.839Z"
         },
         {
           "node_type": "item",
@@ -677,7 +710,8 @@
             "owner": "WebCrateApp",
             "repo": "webcrate",
             "stars": 753
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.839Z"
         },
         {
           "node_type": "item",
@@ -692,7 +726,8 @@
             "owner": "sampoder",
             "repo": "berowra",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.839Z"
         },
         {
           "node_type": "item",
@@ -707,7 +742,8 @@
             "owner": "xeust",
             "repo": "knotro",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.839Z"
         },
         {
           "node_type": "item",
@@ -722,7 +758,8 @@
             "owner": "abdelhai",
             "repo": "mira",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.839Z"
         },
         {
           "node_type": "item",
@@ -737,14 +774,15 @@
             "owner": "lizheming",
             "repo": "visitor-badge",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.839Z"
         }
       ],
       "title": "Apps & Examples"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:29:34.004Z",
+    "last_updated": "2026-08-29T00:58:07.839Z",
     "original_repository_info": {
       "archived": false,
       "id": 312291853,
