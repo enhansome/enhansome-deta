@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Example Space apps to help you get started with Space.",
+            "homepage": null,
             "id": 605634730,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-09-22T16:46:07Z",
+            "open_issues": 1,
             "owner": "deta",
             "repo": "starters",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "deta",
+              "deta-space",
+              "examples",
+              "templates"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.839Z"
         },
@@ -26,12 +36,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Custom Spacefile templates for Deta Space",
+            "homepage": null,
             "id": 578158854,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-05-17T15:36:34Z",
+            "open_issues": 3,
             "owner": "tbdsux",
             "repo": "space-custom-apps",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "crystal",
+              "csharp",
+              "dart",
+              "deta",
+              "deta-space",
+              "deta-spacefile",
+              "fsharp",
+              "nim",
+              "php",
+              "remix",
+              "solid-start",
+              "spacefile"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.839Z"
         }
@@ -50,12 +78,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Clojure library designed to simplify interactions with the Deta database. It provides a straightforward way to initialize a database connection and perform operations.",
+                "homepage": "https://adaiasmagdiel.github.io/deta-clojure/",
                 "id": 770599106,
                 "language": "Clojure",
+                "license": "MIT",
                 "last_commit": "2024-03-25T22:28:54Z",
+                "open_issues": 0,
                 "owner": "AdaiasMagdiel",
                 "repo": "deta-clojure",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "api",
+                  "clojure",
+                  "deta",
+                  "deta-base",
+                  "deta-space",
+                  "web",
+                  "web-development"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -73,12 +114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The deta-dart library is the simple way to interact with the services of the free clud on the Deta plataform.",
+                "homepage": null,
                 "id": 447347774,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2022-12-30T00:27:01Z",
+                "open_issues": 4,
                 "owner": "yeikel16",
                 "repo": "deta-dart",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             },
@@ -89,12 +135,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Dart package for easy usage of Deta Base, Drive and Auth",
+                "homepage": null,
                 "id": 406800192,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2024-09-26T15:01:30Z",
+                "open_issues": 0,
                 "owner": "liquidiert",
                 "repo": "deta_dart",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "dart",
+                  "det",
+                  "flutter"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             },
@@ -105,12 +160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dart helper library for Deta Drive cloud storage",
+                "homepage": null,
                 "id": 472024262,
                 "language": "Dart",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-03-22T06:29:01Z",
+                "open_issues": 0,
                 "owner": "DonnC",
                 "repo": "deta_drive",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -128,12 +188,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Deta Golang SDK",
+                "homepage": "https://docs.deta.sh/docs/base/sdk",
                 "id": 309334368,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-07-13T18:52:34Z",
+                "open_issues": 0,
                 "owner": "deta",
                 "repo": "deta-go",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -161,12 +226,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A promise based Deta http api wrapper for deno.",
+                        "homepage": null,
                         "id": 302876307,
                         "language": "TypeScript",
+                        "license": null,
                         "last_commit": "2022-07-22T14:29:54Z",
+                        "open_issues": 0,
                         "owner": "4ov",
                         "repo": "dena",
-                        "stars": 13
+                        "stars": 13,
+                        "topics": [
+                          "deno",
+                          "deta",
+                          "typescript"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:58:07.839Z"
                     },
@@ -177,12 +251,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "An unofficial Deta.sh API client for Deno",
+                        "homepage": null,
                         "id": 377271464,
                         "language": "TypeScript",
+                        "license": null,
                         "last_commit": "2021-06-16T06:29:00Z",
+                        "open_issues": 1,
                         "owner": "predetermined",
                         "repo": "deta-deno",
-                        "stars": 7
+                        "stars": 7,
+                        "topics": [
+                          "database",
+                          "deno",
+                          "deta"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:58:07.839Z"
                     },
@@ -193,12 +276,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Deta port to deno",
+                        "homepage": null,
                         "id": 425841483,
                         "language": "TypeScript",
+                        "license": null,
                         "last_commit": "2021-11-08T14:25:18Z",
+                        "open_issues": 0,
                         "owner": "SiddharthShyniben",
                         "repo": "ddeta",
-                        "stars": 4
+                        "stars": 4,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:58:07.839Z"
                     }
@@ -207,12 +295,17 @@
               ],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": "https://deta.space/docs/en/reference/base/sdk",
                 "id": 265501410,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-10-05T07:42:19Z",
+                "open_issues": 0,
                 "owner": "deta",
                 "repo": "deta-javascript",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -230,12 +323,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Deta SDK for NimLang",
+                "homepage": null,
                 "id": 401520803,
                 "language": "Nim",
+                "license": "ISC",
                 "last_commit": "2022-12-22T02:10:53Z",
+                "open_issues": 0,
                 "owner": "tbdsux",
                 "repo": "detanim",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "deta",
+                  "detabase",
+                  "detanim"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -253,12 +355,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The unofficial PHP Deta Base Wrapper",
+                "homepage": null,
                 "id": 369966665,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2022-07-05T14:34:34Z",
+                "open_issues": 2,
                 "owner": "vitorhugoro1",
                 "repo": "deta-base-php",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "deta",
+                  "deta-base",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -276,12 +387,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "deta's official sdk",
+                "homepage": "https://deta.space/docs/en/build/reference/sdk/base",
                 "id": 265250795,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-15T13:25:34Z",
+                "open_issues": 3,
                 "owner": "deta",
                 "repo": "deta-python",
-                "stars": 152
+                "stars": 152,
+                "topics": [
+                  "deta"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -299,12 +417,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby bindings for deta.sh",
+                "homepage": null,
                 "id": 453330277,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2022-01-30T07:10:36Z",
+                "open_issues": 1,
                 "owner": "acidtib",
                 "repo": "deta-ruby",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -322,12 +445,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deta SDK for Rust",
+                "homepage": null,
                 "id": 391652049,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2021-08-03T00:42:35Z",
+                "open_issues": 0,
                 "owner": "sarmadgulzar",
                 "repo": "deta-rust",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             },
@@ -338,12 +466,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The unofficial Deta SDK for Rust lang.",
+                "homepage": null,
                 "id": 453642675,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-02-15T17:05:55Z",
+                "open_issues": 0,
                 "owner": "JakubesP",
                 "repo": "deta-rust",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             },
@@ -354,12 +487,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deta Rust Library (SDK)",
+                "homepage": null,
                 "id": 314028510,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2020-11-24T08:41:33Z",
+                "open_issues": 0,
                 "owner": "emmanuelantony2000",
                 "repo": "deta-rust",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             },
@@ -370,12 +508,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deta SDK for Rust",
+                "homepage": null,
                 "id": 457654984,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-03-20T12:44:30Z",
+                "open_issues": 0,
                 "owner": "Borber",
                 "repo": "deta-rs",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -393,12 +536,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦜 The unofficial Deta SDK for Swift",
+                "homepage": null,
                 "id": 387118690,
                 "language": "Swift",
+                "license": "MPL-2.0",
                 "last_commit": "2024-05-12T20:22:13Z",
+                "open_issues": 0,
                 "owner": "pkrll",
                 "repo": "deta-swift",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "deta",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -416,12 +567,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deta library for .NET Core in C#",
+                "homepage": null,
                 "id": 370845162,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2021-07-03T19:42:43Z",
+                "open_issues": 0,
                 "owner": "fabioravila",
                 "repo": "deta-csharp",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -439,12 +595,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deta Bindings for V",
+                "homepage": null,
                 "id": 490813348,
                 "language": "V",
+                "license": "MIT",
                 "last_commit": "2022-05-28T22:24:02Z",
+                "open_issues": 0,
                 "owner": "N0tExisting",
                 "repo": "deta-v",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "deta",
+                  "deta-base",
+                  "deta-drive",
+                  "v",
+                  "vlang",
+                  "vlang-library",
+                  "vlang-module"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -478,12 +647,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[WIP] A Deno ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.",
+                        "homepage": "https://deno.land/x/dittorm",
                         "id": 466136358,
                         "language": "TypeScript",
+                        "license": "MIT",
                         "last_commit": "2022-12-10T04:56:22Z",
+                        "open_issues": 0,
                         "owner": "so1ve",
                         "repo": "dittorm-deno",
-                        "stars": 7
+                        "stars": 7,
+                        "topics": [
+                          "deno",
+                          "deta",
+                          "leancloud",
+                          "orm"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:58:07.839Z"
                     }
@@ -492,12 +671,30 @@
               ],
               "repo_info": {
                 "archived": false,
+                "description": "A Node.js ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.",
+                "homepage": null,
                 "id": 462357169,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:44:05Z",
+                "open_issues": 14,
                 "owner": "walinejs",
                 "repo": "dittorm",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "cloudbase",
+                  "deta",
+                  "github",
+                  "inspirecloud",
+                  "leancloud",
+                  "mongodb",
+                  "mysql",
+                  "nodejs",
+                  "orm",
+                  "postgresql",
+                  "serverless",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             },
@@ -508,12 +705,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗃🪐 Basic ORM for Deta Base",
+                "homepage": "https://readme.fish/BetaHuhn/deta-base-orm",
                 "id": 394051997,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-08-23T14:03:21Z",
+                "open_issues": 8,
                 "owner": "BetaHuhn",
                 "repo": "deta-base-orm",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "database",
+                  "deta",
+                  "deta-base",
+                  "nodejs",
+                  "orm",
+                  "orm-library",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -531,12 +741,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple ODM(Object Document Mapper) for Deta Base based on pydantic",
+                "homepage": null,
                 "id": 318719447,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-10T18:03:12Z",
+                "open_issues": 3,
                 "owner": "rickh94",
                 "repo": "ODetaM",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "database-management",
+                  "deta",
+                  "odm",
+                  "pydantic",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -560,12 +781,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cache any function call's to Deta base.",
+                "homepage": "https://pypi.org/project/detacache/",
                 "id": 433332133,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-09T10:49:16Z",
+                "open_issues": 0,
                 "owner": "vidyasagar1432",
                 "repo": "detacache",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "aiohttp",
+                  "async",
+                  "asyncio",
+                  "base",
+                  "cache",
+                  "cache-api",
+                  "cache-request",
+                  "deta",
+                  "deta-cache",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -583,12 +820,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GitHub Action to push your project to Deta Space.",
+                "homepage": null,
                 "id": 568495052,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-02-26T06:24:18Z",
+                "open_issues": 2,
                 "owner": "neobrains",
                 "repo": "space-pipe",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "cicd",
+                  "deployment",
+                  "deta",
+                  "deta-space",
+                  "github-actions",
+                  "neobrains"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             },
@@ -599,12 +848,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub Action to deploy current repo to Deta Space",
+                "homepage": null,
                 "id": 625182523,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2024-02-17T02:50:47Z",
+                "open_issues": 0,
                 "owner": "lizheming",
                 "repo": "deta-action",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "action",
+                  "cicd",
+                  "deployment",
+                  "deta",
+                  "deta-space",
+                  "github-actions"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -622,12 +883,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://www.npmjs.com/package/multer-deta-storage",
                 "id": 472001454,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-03-22T10:45:58Z",
+                "open_issues": 0,
                 "owner": "KrishGarg",
                 "repo": "multer-deta-storage",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -645,12 +911,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fetch API-based deta js library for browser and Service Worker environments",
+                "homepage": null,
                 "id": 401856045,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-09-09T03:38:24Z",
+                "open_issues": 3,
                 "owner": "woozyking",
                 "repo": "deta-worker",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
             }
@@ -672,12 +943,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The React Framework",
+            "homepage": "https://nextjs.org",
             "id": 70107786,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-29T00:19:20Z",
+            "open_issues": 3638,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141977
+            "stars": 141980,
+            "topics": [
+              "blog",
+              "browser",
+              "compiler",
+              "components",
+              "hybrid",
+              "nextjs",
+              "node",
+              "react",
+              "server-rendering",
+              "ssg",
+              "static",
+              "static-site-generator",
+              "universal",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.839Z"
         },
@@ -688,12 +979,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Online SQLite playground",
+            "homepage": "http://sqlime.org",
             "id": 409578405,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-04T08:02:03Z",
+            "open_issues": 4,
             "owner": "nalgeon",
             "repo": "sqlime",
-            "stars": 1066
+            "stars": 1066,
+            "topics": [
+              "fiddle",
+              "playground",
+              "sandbox",
+              "sql",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.839Z"
         },
@@ -704,12 +1006,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool",
+            "homepage": "https://webcrate.app",
             "id": 380346064,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2024-09-02T13:58:28Z",
+            "open_issues": 4,
             "owner": "WebCrateApp",
             "repo": "webcrate",
-            "stars": 753
+            "stars": 753,
+            "topics": [
+              "bookmarks",
+              "bookmarks-manager",
+              "deta",
+              "deta-space"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.839Z"
         },
@@ -720,12 +1032,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔵 An open source CMS built for hackers and hobbyists.",
+            "homepage": "https://berowra.sampoder.com/",
             "id": 380172812,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2022-10-14T01:28:56Z",
+            "open_issues": 5,
             "owner": "sampoder",
             "repo": "berowra",
-            "stars": 242
+            "stars": 242,
+            "topics": [
+              "deta",
+              "flask",
+              "python",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.839Z"
         },
@@ -736,12 +1058,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 261156548,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-22T15:18:40Z",
+            "open_issues": 8,
             "owner": "xeust",
             "repo": "knotro",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "deta",
+              "fastapi"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.839Z"
         },
@@ -752,12 +1082,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A place for notes, but for the people I keep in touch with",
+            "homepage": null,
             "id": 300314530,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-07-22T16:12:39Z",
+            "open_issues": 0,
             "owner": "abdelhai",
             "repo": "mira",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "deta",
+              "deta-base",
+              "deta-micros"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.839Z"
         },
@@ -768,12 +1107,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A badge generator service to count visitors of your markdown file.",
+            "homepage": "https://visitor-badge.lithub.cc",
             "id": 635803719,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-05-03T15:57:08Z",
+            "open_issues": 0,
             "owner": "lizheming",
             "repo": "visitor-badge",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "badge",
+              "deta",
+              "leancloud",
+              "vercel",
+              "visitor-badge"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.839Z"
         }
@@ -782,15 +1132,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:58:07.839Z",
+    "last_updated": "2026-08-29T04:54:40.356Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Deta Stuff",
+      "homepage": "https://deta.sh",
       "id": 312291853,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-03-19T17:42:42Z",
+      "open_issues": 3,
       "owner": "deta",
       "repo": "awesome-deta",
-      "stars": 139
+      "stars": 139,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deta"
+      ]
     },
     "original_repository_sha": "eecdad77ebe4168d43b64ec1c3b2bca122931084",
     "enhanced_repository": "enhansome/enhansome-deta",
