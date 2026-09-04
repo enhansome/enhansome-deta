@@ -142,7 +142,7 @@ Starters & templates to help you get started.
 
 ## Apps & Examples
 
-* [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base) ⭐ 142,076 | 🐛 3,313 | 🌐 JavaScript | 📅 2026-09-03 - An example using Deta Base in a Next.js project.
+* [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base) ⭐ 142,095 | 🐛 3,275 | 🌐 JavaScript | 📅 2026-09-04 - An example using Deta Base in a Next.js project.
 
 * [SQLime](https://github.com/nalgeon/sqlime) ⭐ 1,065 | 🐛 4 | 🌐 JavaScript | 📅 2025-09-04 - Online SQLite playground.
 
@@ -170,4 +170,4 @@ Creative Commons. Please see [License File](LICENSE) for more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
