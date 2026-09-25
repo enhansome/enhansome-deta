@@ -110,7 +110,7 @@ Starters & templates to help you get started.
 
 ### JavaScript ORM
 
-* [Dittorm](https://github.com/walinejs/dittorm) ⭐ 27 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-16 - A Node.js ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.
+* [Dittorm](https://github.com/walinejs/dittorm) ⭐ 27 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-25 - A Node.js ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.
   * Deno
     * [dittorm-deno](https://github.com/so1ve/dittorm-deno) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2022-12-10 - A Deno ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.
 * [Deta Base ORM](https://github.com/BetaHuhn/deta-base-orm) ⭐ 22 | 🐛 8 | 🌐 JavaScript | 📅 2023-08-23 - 🗃🪐 Basic ORM for Deta Base.
@@ -142,9 +142,9 @@ Starters & templates to help you get started.
 
 ## Apps & Examples
 
-* [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base) ⭐ 142,423 | 🐛 3,485 | 🌐 JavaScript | 📅 2026-09-24 - An example using Deta Base in a Next.js project.
+* [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base) ⭐ 142,435 | 🐛 3,496 | 🌐 JavaScript | 📅 2026-09-25 - An example using Deta Base in a Next.js project.
 
-* [SQLime](https://github.com/nalgeon/sqlime) ⭐ 1,065 | 🐛 4 | 🌐 JavaScript | 📅 2025-09-04 - Online SQLite playground.
+* [SQLime](https://github.com/nalgeon/sqlime) ⭐ 1,066 | 🐛 4 | 🌐 JavaScript | 📅 2025-09-04 - Online SQLite playground.
 
 * [WebCrate App](https://github.com/WebCrateApp/webcrate) ⭐ 751 | 🐛 4 | 🌐 Vue | 📅 2024-09-02 - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool.
 
@@ -170,4 +170,4 @@ Creative Commons. Please see [License File](LICENSE) for more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
