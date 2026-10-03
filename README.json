@@ -948,11 +948,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T04:40:43Z",
-            "open_issues": 3532,
+            "last_commit": "2026-10-03T19:14:40Z",
+            "open_issues": 3535,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143018,
+            "stars": 143064,
             "topics": [
               "blog",
               "browser",
@@ -1132,7 +1132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:42:48.882Z",
+    "last_updated": "2026-10-03T19:49:59.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Deta Stuff",
