@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Starters by Deta",
-          "description": null,
+          "description": "deta/starters",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -32,7 +32,7 @@
         {
           "node_type": "item",
           "title": "\"Space Custom Apps\" by Joshue Abance",
-          "description": null,
+          "description": "tbdsux/space-custom-apps",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -948,11 +948,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:51:35Z",
-            "open_issues": 3531,
+            "last_commit": "2026-10-03T04:40:43Z",
+            "open_issues": 3532,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 142999,
+            "stars": 143018,
             "topics": [
               "blog",
               "browser",
@@ -1132,7 +1132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:19:47.670Z",
+    "last_updated": "2026-10-03T04:42:48.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Deta Stuff",
