@@ -948,11 +948,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T21:37:01Z",
-            "open_issues": 3753,
+            "last_commit": "2026-10-27T21:12:36Z",
+            "open_issues": 3741,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143306,
+            "stars": 143171,
             "topics": [
               "blog",
               "browser",
@@ -1041,7 +1041,7 @@
             "open_issues": 5,
             "owner": "sampoder",
             "repo": "berowra",
-            "stars": 241,
+            "stars": 242,
             "topics": [
               "deta",
               "flask",
@@ -1132,7 +1132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:38:07.765Z",
+    "last_updated": "2026-10-27T21:18:12.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Deta Stuff",

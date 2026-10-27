@@ -142,13 +142,13 @@ Starters & templates to help you get started.
 
 ## Apps & Examples
 
-* [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base) ⭐ 143,306 | 🐛 3,753 | 🌐 JavaScript | 📅 2026-10-26 - An example using Deta Base in a Next.js project.
+* [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base) ⭐ 143,171 | 🐛 3,741 | 🌐 JavaScript | 📅 2026-10-27 - An example using Deta Base in a Next.js project.
 
 * [SQLime](https://github.com/nalgeon/sqlime) ⭐ 1,068 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-24 - Online SQLite playground.
 
 * [WebCrate App](https://github.com/WebCrateApp/webcrate) ⭐ 750 | 🐛 4 | 🌐 Vue | 📅 2024-09-02 - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool.
 
-* [Berowra](https://github.com/sampoder/berowra) ⭐ 241 | 🐛 5 | 🌐 HTML | 📅 2022-10-14 - 🔵 An open source CMS built for hackers and hobbyists, runs on Deta Space.
+* [Berowra](https://github.com/sampoder/berowra) ⭐ 242 | 🐛 5 | 🌐 HTML | 📅 2022-10-14 - 🔵 An open source CMS built for hackers and hobbyists, runs on Deta Space.
 
 * [yarc](https://github.com/xeust/yarc) ⭐ 126 | 🐛 8 | 🌐 JavaScript | 📅 2023-09-22 - bi-directional notes.
 
@@ -170,4 +170,4 @@ Creative Commons. Please see [License File](LICENSE) for more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
