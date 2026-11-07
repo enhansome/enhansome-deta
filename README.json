@@ -197,7 +197,7 @@
                 "open_issues": 0,
                 "owner": "deta",
                 "repo": "deta-go",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
@@ -304,7 +304,7 @@
                 "open_issues": 0,
                 "owner": "deta",
                 "repo": "deta-javascript",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.839Z"
@@ -676,7 +676,7 @@
                 "id": 462357169,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-05T18:26:45Z",
+                "last_commit": "2026-11-07T20:34:11Z",
                 "open_issues": 15,
                 "owner": "walinejs",
                 "repo": "dittorm",
@@ -948,11 +948,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T22:03:56Z",
-            "open_issues": 3839,
+            "last_commit": "2026-11-07T20:51:27Z",
+            "open_issues": 3868,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143368,
+            "stars": 143382,
             "topics": [
               "blog",
               "browser",
@@ -1015,7 +1015,7 @@
             "open_issues": 4,
             "owner": "WebCrateApp",
             "repo": "webcrate",
-            "stars": 750,
+            "stars": 748,
             "topics": [
               "bookmarks",
               "bookmarks-manager",
@@ -1132,7 +1132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:06:51.153Z",
+    "last_updated": "2026-11-07T20:51:59.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Deta Stuff",
