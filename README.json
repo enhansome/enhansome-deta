@@ -676,7 +676,7 @@
                 "id": 462357169,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T20:34:11Z",
+                "last_commit": "2026-11-11T11:14:58Z",
                 "open_issues": 15,
                 "owner": "walinejs",
                 "repo": "dittorm",
@@ -948,11 +948,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T21:56:45Z",
-            "open_issues": 3932,
+            "last_commit": "2026-11-11T23:17:43Z",
+            "open_issues": 3950,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143455,
+            "stars": 143476,
             "topics": [
               "blog",
               "browser",
@@ -1132,7 +1132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:21:46.549Z",
+    "last_updated": "2026-11-11T23:27:53.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Deta Stuff",
