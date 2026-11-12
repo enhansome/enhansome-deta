@@ -110,7 +110,7 @@ Starters & templates to help you get started.
 
 ### JavaScript ORM
 
-* [Dittorm](https://github.com/walinejs/dittorm) ⭐ 27 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-11 - A Node.js ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.
+* [Dittorm](https://github.com/walinejs/dittorm) ⭐ 27 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-12 - A Node.js ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.
   * Deno
     * [dittorm-deno](https://github.com/so1ve/dittorm-deno) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2022-12-10 - A Deno ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.
 * [Deta Base ORM](https://github.com/BetaHuhn/deta-base-orm) ⭐ 22 | 🐛 8 | 🌐 JavaScript | 📅 2023-08-23 - 🗃🪐 Basic ORM for Deta Base.
@@ -142,7 +142,7 @@ Starters & templates to help you get started.
 
 ## Apps & Examples
 
-* [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base) ⭐ 143,476 | 🐛 3,950 | 🌐 JavaScript | 📅 2026-11-11 - An example using Deta Base in a Next.js project.
+* [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base) ⭐ 143,494 | 🐛 3,953 | 🌐 JavaScript | 📅 2026-11-12 - An example using Deta Base in a Next.js project.
 
 * [SQLime](https://github.com/nalgeon/sqlime) ⭐ 1,068 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-24 - Online SQLite playground.
 
@@ -154,7 +154,7 @@ Starters & templates to help you get started.
 
 * [Mira](https://github.com/abdelhai/mira) ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2021-07-22 - a personal CRM.
 
-* [VisitorBadge](https://github.com/lizheming/visitor-badge) ⭐ 8 | 🐛 0 | 🌐 HTML | 📅 2023-05-03 - A badge generator service to count visitors of your markdown file.
+* [VisitorBadge](https://github.com/lizheming/visitor-badge) ⭐ 7 | 🐛 0 | 🌐 HTML | 📅 2023-05-03 - A badge generator service to count visitors of your markdown file.
 
 * [Waline](https://waline.js.org/en/guide/server/deta.html) - A simple, safe comment system for static site.
 
@@ -170,4 +170,4 @@ Creative Commons. Please see [License File](LICENSE) for more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
