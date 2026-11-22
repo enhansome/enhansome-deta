@@ -142,9 +142,9 @@ Starters & templates to help you get started.
 
 ## Apps & Examples
 
-* [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base) ⭐ 143,632 | 🐛 4,112 | 🌐 JavaScript | 📅 2026-11-21 - An example using Deta Base in a Next.js project.
+* [To Dos with Deta + Next.js](https://github.com/vercel/next.js/tree/canary/examples/with-deta-base) ⭐ 143,606 | 🐛 4,113 | 🌐 JavaScript | 📅 2026-11-22 - An example using Deta Base in a Next.js project.
 
-* [SQLime](https://github.com/nalgeon/sqlime) ⭐ 1,069 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-24 - Online SQLite playground.
+* [SQLime](https://github.com/nalgeon/sqlime) ⭐ 1,070 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-24 - Online SQLite playground.
 
 * [WebCrate App](https://github.com/WebCrateApp/webcrate) ⭐ 748 | 🐛 4 | 🌐 Vue | 📅 2024-09-02 - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool.
 
@@ -170,4 +170,4 @@ Creative Commons. Please see [License File](LICENSE) for more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

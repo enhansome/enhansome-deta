@@ -948,11 +948,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T21:30:18Z",
-            "open_issues": 4112,
+            "last_commit": "2026-11-22T21:04:26Z",
+            "open_issues": 4113,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143632,
+            "stars": 143606,
             "topics": [
               "blog",
               "browser",
@@ -988,7 +988,7 @@
             "open_issues": 0,
             "owner": "nalgeon",
             "repo": "sqlime",
-            "stars": 1069,
+            "stars": 1070,
             "topics": [
               "fiddle",
               "playground",
@@ -1132,7 +1132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:10:41.679Z",
+    "last_updated": "2026-11-22T22:27:54.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Deta Stuff",
