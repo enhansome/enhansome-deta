@@ -634,41 +634,7 @@
               "node_type": "item",
               "title": "Dittorm",
               "description": "A Node.js ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.",
-              "children": [
-                {
-                  "node_type": "group",
-                  "title": "Deno",
-                  "description": null,
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "dittorm-deno",
-                      "description": "A Deno ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "[WIP] A Deno ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.",
-                        "homepage": "https://deno.land/x/dittorm",
-                        "id": 466136358,
-                        "language": "TypeScript",
-                        "license": "MIT",
-                        "last_commit": "2022-12-10T04:56:22Z",
-                        "open_issues": 0,
-                        "owner": "so1ve",
-                        "repo": "dittorm-deno",
-                        "stars": 8,
-                        "topics": [
-                          "deno",
-                          "deta",
-                          "leancloud",
-                          "orm"
-                        ]
-                      },
-                      "first_seen": "2026-08-29T00:58:07.839Z"
-                    }
-                  ]
-                }
-              ],
+              "children": [],
               "repo_info": {
                 "archived": false,
                 "description": "A Node.js ORM for MySQL, SQLite, PostgreSQL, MongoDB, GitHub and serverless service like Deta, InspireCloud, CloudBase, LeanCloud.",
@@ -948,11 +914,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-22T21:04:26Z",
+            "last_commit": "2026-11-24T03:02:40Z",
             "open_issues": 4113,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143606,
+            "stars": 143620,
             "topics": [
               "blog",
               "browser",
@@ -1132,7 +1098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T22:27:54.052Z",
+    "last_updated": "2026-11-24T03:19:30.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Deta Stuff",
