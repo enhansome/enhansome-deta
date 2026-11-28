@@ -914,11 +914,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-27T00:12:43Z",
-            "open_issues": 4154,
+            "last_commit": "2026-11-28T00:30:31Z",
+            "open_issues": 4161,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143746,
+            "stars": 143767,
             "topics": [
               "blog",
               "browser",
@@ -981,7 +981,7 @@
             "open_issues": 4,
             "owner": "WebCrateApp",
             "repo": "webcrate",
-            "stars": 748,
+            "stars": 749,
             "topics": [
               "bookmarks",
               "bookmarks-manager",
@@ -1098,7 +1098,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:00:09.329Z",
+    "last_updated": "2026-11-28T00:32:13.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Deta Stuff",
